@@ -36,6 +36,6 @@ As perguntas são sobre conceitos básicos de Python e programação. Você pode
 
 ## Desenvolvimento
 
-O jogo foi desenvolvido com foco na clareza do código e na implementação dos requisitos propostos. As saídas são baseadas em texto no console para simplicidade.
+O jogo foi desenvolvido com foco na clareza do código e na implementação dos requisitos propostos pelo projeto da faculdade. As saídas são baseadas em texto no console para simplicidade.
 
 
